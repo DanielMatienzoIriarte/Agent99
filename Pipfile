@@ -4,10 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
-langchain = "*"
-python-dotenv = "*"
-pydantic = "*"
+ctransformers = "*"
+vadersentiment = "*"
+speechrecognition = "*"
+psutil = "*"
 
 [dev-packages]
 
